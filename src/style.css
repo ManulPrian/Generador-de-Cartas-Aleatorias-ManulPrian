@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: rgb(11, 110, 11);
+  height: 550px;
+  display: flex;
+  justify-content: center;
+}
+div.container {
+  border-radius: 5%;
+  background: white;
+  height: 500px;
+  width: 350px;
+}
