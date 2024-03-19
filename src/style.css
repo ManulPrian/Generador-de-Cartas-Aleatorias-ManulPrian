@@ -11,3 +11,12 @@ div.container {
   height: 500px;
   width: 350px;
 }
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
+.rotate-180 {
+  transform: rotate(180deg);
+}
